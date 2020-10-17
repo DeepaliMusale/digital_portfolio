@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name": "Deepali Musale",
+    "occupation": "Frontend Web Developer",
+    "description": "I want to make things, that make a difference!",
+    "image": "profile-pic.jpg",
+    "bio": "Hello!! I am an innovative and enthusiastic web designer and developer with a passion to bring ideas into reality. My experience (+2 years) includes working with diverse clients to design, build and maintain their websites. Additionally, I have helped businesses improve their social media presence and optimize their search engine appearances. I am seeking a challenging role to apply my skills, continuously learn and evolve in the digital marketing space.",
+    "contact message": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "deepalimusale3@gmail.com",
+    "phone": "+1 (780)690-8704",
+    "address": {
+      "street": "10635 47 Ave NW",
+      "city": "Edmonton",
+      "state": "Alberta, Canada",
+      "zip": "T6H 4R8"
+    },
+    "website": "https://deepalimusale.com/",
+    "resumedownload": "https://www.dropbox.com/h?preview=Deepali+Musale+-+Web+Developer.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dipali.musale.1/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/deepali-musale",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DeepaliMusale",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Visveswaraya Technological University,India",
+        "degree": "Bachelor's in Information Science and Engineering",
+        "graduated": "January 2013"
+      },
+      {
+        "school": "Northern Alberta Institute of Technology,AB,Canada",
+        "degree": "Credit Courses: HTML, CSS, JavaScript, C#, Web Essentials & Accessibility, Database Management, Adobe Photoshop & Illustrator, Visual Communications.",
+        "graduated": "April 2017"
+      }
+    ],
+    "work": [
+      {
+        "company": "TwoFoci, Edmonton, CA",
+        "title": "Web Developer & Designer (Freelancer)",
+        "years": "March 2020 - April 2020",
+        "description": " Designed and Developed Wix website for a startup business consultancy",
+        "website link": "https://www.twofoci.com/"
+      },
+      {
+        "company": "JJ Consulting Services, Edmonton, CA",
+        "title": "Web Developer & Designer (Freelancer)",
+        "years": "Aug 2019 - Nov 2019",
+        "description": "Designed and Developed WordPress website for a wedding and event planner"
+      },
+      {
+        "company": "Maypharm Life Sciences, India",
+        "title": "Web Developer & Designer (Freelancer)",
+        "years": "Oct 2017 - Mar 2018",
+        "description": "Designed and developed WordPress for an India based pharmaceutical company",
+        "website link": "https://maypharm.com/"
+      },
+      {
+        "company": "Help One Another Canada foundation, Canada",
+        "title": "Web Developer(Internship)",
+        "years": "Jun 2017 - Oct 2017",
+        "description": "Developed a WordPress website for NGO"
+      },
+      {
+        "company": "Playtime-online Inc., Canada",
+        "title": "Android Application Tester and Web Developer (Freelancer)",
+        "years": "Dec 2014 - Dec 2015",
+        "description": "Executed test cases of an android application using JUnit framework. Designed and developed a responsive webpage for an android application including an image carousel using HTML, CSS and JavaScript"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "name": "WordPress",
+        "level": "70%"
+      },
+      {
+        "name": "React",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe Photoshop & Illustrator",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon clone with stripe online payment",
+        "category": "React Website",
+        "image": "Amazon-Clone.png",
+        "url": "https://clone-dfbe8.web.app/"
+      },
+      {
+        "title": "Wix Website",
+        "category": "Wix - Cloud service application",
+        "image": "TwoFoci.png",
+        "url": "https://www.twofoci.com/"
+      },
+      {
+        "title": "Maypharm Website",
+        "category": "WordPress website built with HTML, CSS, JavaScript and PHP",
+        "image": "Maypharm.png",
+        "url": "https://maypharm.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Deepali has a very solid knowledge base in web development, but more importantly, she knows how to use that knowledge to resolve problems and design solutions. She fit well in her team and has an even temperament that makes her easy to work with.Deepali will always do well anywhere she goes. She is one of the brightest people that I've had he ability to learn anything quickly and thoroughly. She is a hardworking person and is an outstanding team player. I would recommend Deepali for any position that she seeks.",
+        "user": "Somayeh Aboodi"
+      }
+    ]
+  }
+}
